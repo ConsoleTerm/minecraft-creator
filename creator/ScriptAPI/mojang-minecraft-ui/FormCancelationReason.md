@@ -3,8 +3,8 @@
 author: jakeshirley
 ms.author: jashir
 ms.prod: gaming
-title: .FormCancelationReason Enumeration
-description: Contents of the .FormCancelationReason enumeration.
+title: mojang-minecraft-ui.FormCancelationReason Enumeration
+description: Contents of the mojang-minecraft-ui.FormCancelationReason enumeration.
 ---
 # FormCancelationReason Enumeration
 >[!IMPORTANT]
